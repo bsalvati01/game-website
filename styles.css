@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+    color: white;
+}
+h1 {
+    background-image: url(https://steam.cryotank.net/wp-content/gallery/diablo1/Diablo-1-04-HD.png);
+    height: 350px;
+    width: 900px;
+    
+}
+li {
+    font-size: large;
+}
+f1 {
+    font-size: xx-large;
+}
